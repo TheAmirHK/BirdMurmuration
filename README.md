@@ -33,9 +33,9 @@ Each bird follows simple rules (stay close but not too close, align with others)
 
 ## Learning rules 
 Here, I developed a multi-agent reinforcement learning (MARL) algorithm that uses simple rules and I reward them based on those, such as: 
-  - Cohesion: Keep the birds in the center of the mass.
-  - Alignment: Maintain their velocity with the average velocity of neighbors.
-  - Separation: Penalize birds for getting too close to each other.
+  - Cohesion: Keep the birds in the center of the mass. (v1)
+  - Alignment: Maintain their velocity with the average velocity of neighbors. (v1)
+  - Separation: Penalize birds for getting too close to each other. (v1)
 
 ## Trial
 In my first code, the pattern is not much mesmerizing, yet not that bad, at least they respect the rules.
