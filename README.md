@@ -37,6 +37,11 @@ Here, I developed a multi-agent reinforcement learning (MARL) algorithm that use
   - Alignment: Maintain their velocity with the average velocity of neighbors.
   - Separation: Penalize birds for getting too close to each other.
 
+## Trial
+In first attempt, the pattern is not much mesmerizing, yet not that bad, at least they respect the rules.
+
+![BirdMurmuration](Mu_1.gif)
+
 
 
 
