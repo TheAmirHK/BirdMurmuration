@@ -41,7 +41,7 @@ Here, I developed a multi-agent reinforcement learning (MARL) algorithm that use
   -  In the very first code, I creatd a 2D environment. 
   -  In my second code, I developed a 3D model. The pattern is not much mesmerizing, yet not that bad, at least they respect the rules.
 
-![BirdMurmuration](Mu_1(2D).gif) ![BirdMurmuration](Mu_1.gif)
+![BirdMurmuration](Results/Mu_1(2D).gif) ![BirdMurmuration](Mu_1.gif)
 
 
 
