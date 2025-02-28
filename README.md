@@ -2,25 +2,25 @@
 
 Animals exhibit a variety of social phenomena that mirror human behaviors in interesting ways. Here are some examples:
 
-1. Altruism & Cooperation
+### 1. Altruism & Cooperation
   - Vampire Bats: Share blood meals with others that failed to feed, ensuring survival within the colony.
   - Meerkats: Take turns standing guard while others forage, warning the group of predators.
-2. Hierarchy & Leadership
+### 2. Hierarchy & Leadership
 - Wolves: Operate in packs with an alpha pair leading the group.
 - Elephants: Matriarch-led herds where older females guide the group based on experience.
-3. Collective Intelligence & Swarm Behavior
+### 3. Collective Intelligence & Swarm Behavior
 - Ants & Bees: Work as superorganisms, making complex group decisions without a central leader.
 - Fish Schools & Bird Flocks: Move in synchronized formations to evade predators.
-4. Culture & Traditions
+### 4. Culture & Traditions
 - Chimpanzees: Pass on tool-making skills across generations (e.g., using sticks to extract termites).
 - Dolphins: Teach young unique hunting techniques, like using marine sponges as protection when foraging.
-5. Social Punishment & Justice
+### 5. Social Punishment & Justice
 - Rhesus Macaques: Punish members that steal food or break social norms.
 - Elephants: Show resentment or revenge behavior against individuals that harmed them.
-6. Mating Strategies & Courtship Rituals
+### 6. Mating Strategies & Courtship Rituals
 - Peacocks: Use extravagant tail displays to attract mates.
 - Bowerbirds: Build intricate nests and decorate them to impress potential mates.
-7. Grief & Mourning
+### 7. Grief & Mourning
 - Elephants: Show mourning behavior, gently touching the bones of deceased relatives.
 - Dolphins & Whales: Carry dead calves for days, indicating emotional attachment.
 
